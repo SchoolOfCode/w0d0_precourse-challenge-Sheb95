@@ -3,6 +3,9 @@ w0d0_precourse-challenge-Sheb95 created by GitHub Classroom
 
 
 >## Challenge 1: Tribute Page
+>
+> Link to final version of page: https://schoolofcode.github.io/w0d0_precourse-challenge-Sheb95/
+> Link to original version: https://sheb95.github.io/Tribute-Page/
 > The objective of this challenge was to create a responsive tribute webpage using HTML and CSS. I dedicated this webpage to Nipsey Hussle, a rapper who tried to establish a STEM training centre within his heavily gang-orientated neighbourhood (Crenshaw, South Los Angeles) for the local youth. Unfortanely, Hussle was killed before his ambition was realised on 31st March 2013.
 >
 >The reason why Hussle was chosen as this tribute page's subject matter was because he saw the empowering potential of tech as well as its lack of diversity. He stated himself that he'd rather have the inner city youth follow the likes of Elon Musk and Mark Zuckerbeg as opposed to entertainers and athlete. Hussle wanted to use his influence to steer that despite being an entertainer himself. It is uncommon and unexpected for a rapper to promote such a career path and thus I thought it was fitting to dedicate my first project to Hussle.
